@@ -1,0 +1,35 @@
+{
+  "name": "nativescript-signalr",
+  "version": "1.0.0",
+  "description": "A NativeScript plugin to connect and talk with a signalr server",
+  "main": "signalr.js",
+  "nativescript": {
+	"platforms": {
+		"android": "1.7.0",
+		"ios": "1.7.0"
+	}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanaela/nativescript-signalr.git"
+  },
+  "dependencies": {
+    "nativescript-websockets": "latest"
+  },
+  "keywords": [
+    "NativeScript", "signalr", "websockets", "ios", "android"
+  ],
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "license": {
+    "type": "PATREON",
+    "url": "https://github.com/nathanaela/nativescript-signalr/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-signalr/issues"
+  },
+  "homepage": "https://github.com/nathanaela/nativescript-signalr",
+  "readmeFilename": "README.md"
+}

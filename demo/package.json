@@ -1,0 +1,14 @@
+{
+  "nativescript": {
+    "id": "com.mastertechapps.signalrdemo"
+  },
+  "dependencies": {
+    "nativescript-signalr": "file:.."
+  },
+  "devDependencies": {
+    "babel-traverse": "6.10.4",
+    "babel-types": "6.11.1",
+    "babylon": "6.8.3",
+    "lazy": "1.0.11"
+  }
+}
