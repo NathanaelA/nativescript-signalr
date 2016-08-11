@@ -5,13 +5,19 @@
 # nativescript-signalr
 A NativeScript plugin to connect and talk to a C# signalr server
 
-**WARNING:** The code is NOT on NPM yet, the code is only available to Patreon supporters.
-THIS is on NPM to be used as a Placeholder so that this plugin does have a home when it is finally released.
+**WARNING:** The code is NOT "officially" on NPM yet, the code/plugin is available to Patreon supporters or purchasable via 
+[http://nativescript.tools](http://nativescript.tools/all)
+
+THIS is on NPM to be used as a Placeholder so that this plugin does have a home when(if?) it is ever released open source.
 
 ## License
 
-The actual code is released under what I call the PATRON License, meaning you are free to include this in any type of program as long as you downloaded this when you were a current patron and/or sponsor, and got the file directly from my patreon post.  It will be released under a proper open source license at a time of my choosing (typically after a couple months of exclusive access by sponsor's).  At that point the product will be re-released under the MIT license. -- However for entities that need a support contract, changes, enhancements and/or a commercial license please contact me at [http://nativescript.tools](http://nativescript.tools).
+The actual code is released under what I call the PATRON License, meaning you are free to include this in any type of program as long as you downloaded this when you were a current multi-month patron/sponsor, and got the file directly from the patreon post.  
 
+Depending on the support of the plugin from Patron's -- it may be released under a proper open source license at a time of my choosing (typically after a couple months of exclusive access by sponsor's).  At that point the product will be re-released under the MIT license. 
+
+In addition to the PATRON license, you can purchase this directly under a COMMERCIAL license from the [http://nativescript.tools](http://nativescript.tools/all) site.
+ 
 I also do contract work; so if you have a module you want built for NativeScript (or any other software projects) feel free to contact me [nathan@master-technology.com](mailto://nathan@master-technology.com).
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg?style=plastic)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HN8DDMWVGBNQL&lc=US&item_name=Nathanael%20Anderson&item_number=nativescript%2dsignalr&no_note=1&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3ax%3aNonHosted)
